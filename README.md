@@ -15,5 +15,5 @@ other attached packages:
  [6] reshape2_1.4.4    dplyr_1.0.10      broom_1.0.3       fastDummies_1.7.3 mvtnorm_1.1-3    
 [11] ggplot2_3.4.1     rlist_0.4.6.2    
 
-The repository contains of four R-scripts and one results folder: functions.R, analysis_minP.R, analysis_fwer.R. To reproduce the results, please set the working directory to the repository and the number of cores to use
+The repository contains of three R-scripts and one results folder: functions.R, analysis_minP.R, analysis_fwer.R. To reproduce the results, please set the working directory to the repository and the number of cores to use
 in both files. analysis_fwer.R produces Figure 2 and analysis_nimP.R Figure 3 of the manuscript.
